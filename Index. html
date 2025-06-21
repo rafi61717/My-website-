@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Personal Website</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 20px; }
+    img { width: 150px; border-radius: 50%; margin: 20px auto; }
+    .container { max-width: 600px; margin: auto; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>👋 হ্যালো, আমি [তোমার নাম]</h1>
+    <img src="[তোমার-ছবির-লিংক]" alt="My Photo" />
+    <h2>🌟 আমার কাজ</h2>
+    <p>[তোমার কাজের অভিজ্ঞতা]</p>
+    <h2>📷 গ্যালারি</h2>
+    <img src="[ছবি১]" />
+    <img src="[ছবি২]" />
+    <p>যোগাযোগ: [তোমার ইমেইল বা লিংক]</p>
+  </div>
+</body>
+</html>
