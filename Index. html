@@ -12,14 +12,19 @@
 </head>
 <body>
   <div class="container">
-    <h1>👋 হ্যালো, আমি [তোমার নাম]</h1>
+    <h1> Hello Myself Rafi]</h1>
     <img src="[তোমার-ছবির-লিংক]" alt="My Photo" />
     <h2>🌟 আমার কাজ</h2>
-    <p>[তোমার কাজের অভিজ্ঞতা]</p>
+    <p>[Work Experience  
+*Salesman, Medicine Shop*  
+(Over 1 year experience)  
+- Communicated with customers and provided excellent service  
+- Provided product information and increased sales  
+- Managed stock inventory]</p>
     <h2>📷 গ্যালারি</h2>
     <img src="[ছবি১]" />
     <img src="[ছবি২]" />
-    <p>যোগাযোগ: [তোমার ইমেইল বা লিংক]</p>
+    <p>যোগাযোগ: [mdr486791@gmail.com]</p>
   </div>
 </body>
 </html>
